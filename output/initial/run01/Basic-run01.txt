@@ -1,0 +1,14 @@
+name = run01
+t = 0
+a = 2.257
+b = 1.385
+c = 0.753
+sigma = 0.5
+Initial dark matter profile = NFW
+Initial baryon profile = Plummer
+rmin = 0.005
+rmax = 500.0
+Shell Number = 160
+Extra shell = 10
+baryon_Plummer_mass_norm = 0.1
+baryon_Plummer_ars = 0.1
